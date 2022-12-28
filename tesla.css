@@ -1,0 +1,197 @@
+.header{
+    width: 100;
+    height: 100px;
+    padding-left: 0%;
+    background-color: transparent;
+    position: fixed;
+    display: flex;
+    
+     
+}
+.Logo{
+    width: 120px;
+    height: 20px;
+    padding-left: 0px;
+    margin-left: 50px;
+    margin-top: 20px;
+    float: left;
+}
+ 
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: black;
+}
+.header-listing{
+    font-size: medium;
+    float: left;
+    padding-left: 157px;
+    padding-top: 22px;
+    text-decoration: none;
+    
+    
+}
+.links{
+    text-decoration: none;
+    
+    font-size:small;
+    font-weight: bold;
+    color: black;
+    padding-left: 25px;
+    font-family:Arial, Helvetica, sans-serif
+   
+}
+
+.main-body {
+    width: 100%;
+    height: 100vh;
+    background-image:url(Image1.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.main-content {
+    text-align: center;
+    
+}
+.main-content h1 {
+    font-size: 45px;
+    margin-left: -10px;
+    
+    font-weight:bold;
+}
+.main-content a {
+    margin-left: -10px;
+    color:#71747A;
+    font-size: 17px;
+    
+
+    
+}
+.main-content button {
+    margin-top: 289px;
+    width: 260px;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+.head {
+    padding-top:50px;
+
+}
+.btn-1 {
+    background-color: #171A20;
+    color: white;
+    border-color: #171A20;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-left: -10px;
+    
+}
+.btn-2{
+    background-color: #E4E3E2;
+    color: #171A20;
+    border-color: #E4E3E2;
+    font-weight: bold;
+    
+}
+.img-container {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    
+}
+.img2 {
+    width: 100%;
+    height: 100vh;
+    background: url(Image2.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.img3 {
+    width: 100%;
+    height: 100vh;
+    background: url(Image3.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.img4 {
+    width: 100%;
+    height: 100vh;
+    background: url(Image4.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.img5 {
+    width: 100%;
+    height: 100vh;
+    background: url(Image5.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.img6 {
+    width: 100%;
+    height: 100vh;
+    background: url(Image6.webp);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.img7 {
+   
+    width: 447px;
+    height: 385px;
+    padding-left: 412px;
+    
+}
+.footer {
+    width: 100%;
+    height: 50px;
+    
+}
+.Menu {
+    float: left;
+    
+    margin-left: -15px;
+    font-size: 12px;
+    color:#A0A2A4;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+
+    
+    
+}
+.Solar{
+    text-decoration: none;
+
+}
+.shopbutton{
+    width: 20%;
+    height: 5%;
+    background-color: black;
+    margin-left: 86px;
+    margin-top: -68px;
+    float: left;
+    position: absolute;
+    text-align: center;
+    margin-top: -78px;
+    padding-top: 10px;
+    }
+.shopnow{
+    color: white;
+    text-decoration: none;
+    padding-top: 5px;
+    font-weight: bold;
+}
+.bottom-bar{
+    height: 100%;
+    width: 100%;
+    padding-left: 277px;
+    padding-top: 20px;
+}
